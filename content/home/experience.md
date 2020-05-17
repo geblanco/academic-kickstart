@@ -18,27 +18,49 @@ date_format = "Jan 2006"
 #   Leave `date_end` empty if it's your current employer.
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 [[experience]]
-  title = "CEO"
-  company = "GenCoin"
-  company_url = ""
-  location = "California"
-  date_start = "2017-01-01"
+  title = "PhD in Natural Language Processing"
+  company = "National Distance Education University (UNED)"
+  company_url = "https://sites.google.com/view/nlp-uned/home"
+  location = "Madrid, Spain"
+  date_start = "2018-09-01"
   date_end = ""
   description = """
   Responsibilities include:
   
-  * Analysing
-  * Modelling
-  * Deploying
+  * Reading and writing scientific literature
+  * Brew experimentation
+  * Do/Test hypotheses
   """
 
 [[experience]]
-  title = "Professor"
-  company = "University X"
-  company_url = ""
-  location = "California"
-  date_start = "2016-01-01"
-  date_end = "2016-12-31"
-  description = """Taught electronic engineering and researched semiconductor physics."""
+  title = "Research Assistant"
+  company = "Technical University of Madrid (UPM)"
+  company_url = "http://www.dia.fi.upm.es/grupos/I&K/I&K-home.htm"
+  location = "Madrid, Spain"
+  date_start = "2018-01-12"
+  date_end = "2018-08-30"
+  description = """Research algorithms for pose estimation, flight control and SLAM for Unmanned Aerial Vehicles (UAV).
 
+  Responsibilities include:
+  
+  * C/C++ Programming with ROS and Gazebo
+  * Testing algorithms through simulation and real flights.
+  * Read/Write scientific literature regarding UAV algorithms.
+  """
+
+[[experience]]
+  title = "Backend Engineer"
+  company = "Horbito"
+  company_url = "https://www.horbito.com/"
+  location = "Madrid, Spain"
+  date_start = "2015-03-15"
+  date_end = "2017-06-15"
+  description = """Development of micro-services oriented backend in a startup company dedicated to create an OS in the cloud with web technologies.
+
+  Responsibilities include:
+  
+  * NodeJS/bash Programming with Databases, Sockets, Test Driven Development and agile methodologies
+  * Develop micro services following Software Engineering protocols and tools.
+  * System administration and contenerization with Docker.
+  """
 +++
