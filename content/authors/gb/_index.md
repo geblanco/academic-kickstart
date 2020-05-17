@@ -78,9 +78,9 @@ editable: false
 
 ---
 
-I am Guillermo Echegoyen, PhD candidate in NLP by The National Distance Education University (UNED) in Madrid, Spain. My PhD is advised by [Anselmo Peñas](http://nlp.uned.es/~anselmo/) and [Alvaro Roddrigo](https://sites.google.com/view/nlp-uned/people/%C3%A1lvaro-rodrigo-yuste?authuser=0)
-My research interests concern Natural Language Processing, Machine Learning and Computer Science, with special focus on question answering, machine reading comprehension, language models, deep neural networks and lifelong learning.
+I am Guillermo Echegoyen, PhD candidate in NLP by The National Distance Education University (UNED) in Madrid, Spain. My PhD is advised by [Anselmo Peñas](http://nlp.uned.es/~anselmo/) and [Alvaro Roddrigo](https://sites.google.com/view/nlp-uned/people/%C3%A1lvaro-rodrigo-yuste?authuser=0),
+and my research interests concern Natural Language Processing, Machine Learning and Computer Science, with special focus on question answering, machine reading comprehension, language models, deep neural networks and lifelong learning.
 
 In 2018, I obtained my MSc in Artificial Intelligence by the Technical University of Madrid (UPM), standing out in Evolutionary Computation, Multi Agent Systems and Bayesian networks.
 
-When not in front of a computer, I am usually into playing drums or rock climbing.
+When not in front of a computer, you can usually find me playing drums or rock climbing.
