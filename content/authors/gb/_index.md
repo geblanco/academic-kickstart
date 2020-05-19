@@ -54,9 +54,12 @@ social:
 - icon: google-scholar
   icon_pack: ai
   link: https://scholar.google.es/citations?user=5XnvPusAAAAJ&hl=en
+- icon: linkedin
+  icon_pack: fab
+  link: https://www.linkedin.com/in/guillermo-blanco-354a6a51/
 - icon: github
   icon_pack: fab
-  link: https://github.com/m0n0l0c0
+  link: https://github.com/geblanco
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
 # - icon: cv
