@@ -9,9 +9,9 @@ go_git(){
 }
 
 read -p "Commit msg?: "  message
-go_git "${message}"
 hugo
 cd public
 go_git "${message}"
 cd -
+go_git "${message}"
 
