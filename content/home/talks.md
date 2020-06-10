@@ -69,11 +69,4 @@ subtitle = ""
  css_class = ""
  
  ##
-# ToDo := Change to static server on university, aws or alike
-# 
-# Cloud Computing in Google Cloud Platform at UNED
-#   Slides: https://drive.google.com/file/d/1DXNAACFkkSYtvrBqBlJ5CYsL8a89i8md/view?usp=sharing
-# Deep Learning & NLP Talk at UNED
-#   Slides: https://drive.google.com/open?id=11Vx2LOBmeGJTce_M1olzfQw9L0_1ZFwV
-#
 +++

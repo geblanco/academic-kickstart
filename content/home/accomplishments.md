@@ -5,7 +5,7 @@ headless = true  # This file represents a page section.
 active = true  # Activate this widget? true/false
 weight = 50
 
-title = "Merits"
+title = "Accomplishments"
 subtitle = ""
 
 # Date format
@@ -39,14 +39,4 @@ date_format = "Jan 2006"
   # date_end = "2018-10-06"
   description = "Thorough introduction to Deep Learnig for Natural Language Processing, imparted by [Eneko Agirre](http://ixa2.si.ehu.es/eneko/) and [Oier Lopez de Lacalle](https://scholar.google.es/citations?user=nieh6tUAAAAJ&hl=en)."
 
-
-[[item]]
-  organization = "Technical University of Madrid (UPM)"
-  organization_url = "https://www.uc3m.es/Home"
-  title = "Imparted 1 ECTS course on Web development Technologies (NodeJS & Electron)"
-  url = ""
-  certificate_url = ""
-  date_start = "2017-02-04"
-  # date_end = "2018-10-06"
-  description = "Deep intro to desktop application development with NodeJS and Electron"
 +++

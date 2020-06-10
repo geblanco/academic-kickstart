@@ -12,7 +12,7 @@ address:
   country: Spain
 
 summary: Introduction to simple and advanced concepts of deep learning for natural language processing.
-abstract: "A summary of the course on [Deep Learning for Text processing](/#merits), imparted by Eneko Agirre and Oier Lopez de Lacalle. 
+abstract: "A summary of the course on [Deep Learning for Text processing](/#accomplishments), imparted by Eneko Agirre and Oier Lopez de Lacalle.
 Explanation from the base concepts to more advanced ones like attention, encoder/decoder architectures and machine translation."
 
 # Talk start and end times.

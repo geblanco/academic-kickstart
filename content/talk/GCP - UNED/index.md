@@ -33,7 +33,7 @@ featured: false
 #   focal_point: Right
 
 links:
-url_code: "https://github.com/m0n0l0c0/gcloud-scripts"
+url_code: "https://github.com/geblanco/gcloud-scripts"
 url_pdf: ""
 url_slides: "https://drive.google.com/file/d/1DXNAACFkkSYtvrBqBlJ5CYsL8a89i8md/view?usp=sharing"
 url_video: ""
