@@ -43,4 +43,5 @@ abstract: In this work we explore to what extent multilingual models can be trai
   for the QA4MRE Entrance Exams dataset in several languages.
 publication: '*Procesamiento del Lenguaje Natural*'
 url_pdf: http://journal.sepln.org/sepln/ojs/ojs/index.php/pln/article/view/6274
+url_slides: "talk/sepln-2020"
 ---
