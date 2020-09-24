@@ -12,6 +12,7 @@ go_git(){
 read -p "Commit msg?: "  message
 hugo
 cd public
+git checkout master
 go_git
 cd -
 go_git
