@@ -12,7 +12,7 @@ address:
   country: Spain
 
 summary: Introduction to cloud computing and best practices in Google Cloud Platform.
-abstract: "Introduct the core concepts and some good practices to operate succesfully in GCP. A repo with scripts to handle GCP is also included"
+abstract: "Introduction to core concepts and some good practices to operate succesfully in GCP. A repo with scripts to handle GCP is also included. The talk was given in spanish."
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
@@ -36,7 +36,7 @@ links:
 url_code: "https://github.com/geblanco/gcloud-scripts"
 url_pdf: ""
 url_slides: "https://drive.google.com/file/d/1DXNAACFkkSYtvrBqBlJ5CYsL8a89i8md/view?usp=sharing"
-url_video: ""
+url_video: "https://unedo365-my.sharepoint.com/:v:/g/personal/gblanco_lsi_uned_es/ERn8Fhy1HOhNtveeYk6L_j4BLdhSGHsUcU8n1qA86gBbRg?e=c90VcM"
 
 # Projects (optional).
 #   Associate this post with one or more of your projects.
