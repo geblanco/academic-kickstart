@@ -56,7 +56,7 @@ social:
   link: https://scholar.google.es/citations?user=5XnvPusAAAAJ&hl=en
 - icon: linkedin
   icon_pack: fab
-  link: https://www.linkedin.com/in/guillermo-blanco-354a6a51/
+  link: https://www.linkedin.com/in/guillermo-e-blanco-354a6a51/
 - icon: github
   icon_pack: fab
   link: https://github.com/geblanco
