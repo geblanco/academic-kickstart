@@ -35,7 +35,7 @@ featured: false
 links:
 url_code: "https://github.com/geblanco/gcloud-scripts"
 url_pdf: ""
-url_slides: "https://drive.google.com/file/d/1DXNAACFkkSYtvrBqBlJ5CYsL8a89i8md/view?usp=sharing"
+url_slides: "https://drive.google.com/file/d/1l9SKfqLcRI5FiPm22ogovEKzW0Bn5Y32/view?usp=sharing"
 url_video: "https://unedo365-my.sharepoint.com/:v:/g/personal/gblanco_lsi_uned_es/ERn8Fhy1HOhNtveeYk6L_j4BLdhSGHsUcU8n1qA86gBbRg?e=c90VcM"
 
 # Projects (optional).

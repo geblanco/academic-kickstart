@@ -50,8 +50,7 @@ date_format = "Jan 2006"
 
 [[experience]]
   title = "Backend Engineer"
-  company = "Horbito"
-  company_url = "https://www.horbito.com/"
+  company = "Inevio (terminated)"
   location = "Madrid, Spain"
   date_start = "2015-03-15"
   date_end = "2017-06-15"

@@ -1,5 +1,5 @@
 ---
-title: Insights from Deep Learning for NLP.
+title: Insights from Deep Learning for NLP
 event: Academic Seminar
 # event_url: https://example.org
 

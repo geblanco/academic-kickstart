@@ -1,15 +1,15 @@
 ---
-title: Cross Lingual Training for Multiple Choice Question Answering
+title: Benchmarking Entity Linking for Question Answering over Knowledge Graphs
 event: Congress talk
 
-location: SEPLN 2020 (Online)
+location: SEPLN 2019, Bilbao
 
-summary: Presentation of the paper _Cross Lingual Training for Multiple Choice Question Answering_.
-abstract: "A summary of the main research objectives, experiments and results obtained from the paper _Cross Lingual Training for Multiple Choice Question Answering_."
+summary: Presentation of the paper _Benchmarking Entity Linking for Question Answering over Knowledge Graphs_.
+abstract: "A summary of the main research objectives, experiments and results obtained from the paper _Benchmarking Entity Linking for Question Answering over Knowledge Graphs_."
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
-date: "2020-09-23T16:00:00Z"
+date: "2019-09-24T12:00:00Z"
 all_day: false
 
 authors: ["gb"]

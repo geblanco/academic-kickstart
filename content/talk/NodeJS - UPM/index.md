@@ -1,5 +1,5 @@
 ---
-title: Course on Web development technologies (NodeJS & Electron).
+title: Course on Web development technologies (NodeJS & Electron)
 event: Academic Seminar
 
 location: Technical University of Madrid (UPM)

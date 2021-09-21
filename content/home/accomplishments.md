@@ -20,6 +20,15 @@ date_format = "Jan 2006"
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 
 [[item]]
+  organization = "National Institute of Standards and Technology (NIST)"
+  title = "TAC Workshop"
+  url = "https://tac.nist.gov/2020/workshop/index.html"
+  certificate_url = "https://drive.google.com/file/d/1gJ5v9HFqAQkgH25AXVo5QmPLHsqNy44I/view?usp=sharing"
+  date_start = "2021-02-22"
+  # date_end = "2021-02-23"
+  description = "International, yearly workshop presenting results for each of TACs tracks and evaluations"
+
+[[item]]
   organization = "Sociedad Española para el Procesamiento de Lenguaje Natural (SEPLN)"
   title = "SEPLN 2020 Congress"
   url = "http://sepln2020.sepln.org/"
