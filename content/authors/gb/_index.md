@@ -10,17 +10,18 @@ authors:
 superuser: true
 
 # Role/position
-role: PhD Candidate in NLP
+role: NLP Researcher
 
 # Organizations/Affiliations
 organizations:
-- name: National Distance Education University (UNED)
-  url: "https://sites.google.com/view/nlp-uned/home"
+- name: Expert AI
+  url: "https://expert.ai"
 
 # Short bio (displayed in user profile at end of posts)
 # bio: <TO-DO>
 
 interests:
+- Knowledge Graphs
 - Question Answering
 - Language models
 - Lifelong Learning
@@ -33,7 +34,7 @@ education:
   courses:
   - course: PhD in Artificial Intelligence
     institution: National Distance Education University (UNED)
-    year: present
+    year: November 2021 (dropped)
   - course: MSc in Artificial Intelligence
     institution: Technical University of Madrid (UPM)
     year: 2018
@@ -82,8 +83,7 @@ editable: false
 
 ---
 
-I am Guillermo Echegoyen, PhD candidate in NLP by The National Distance Education University (UNED) in Madrid, Spain. My PhD is advised by [Anselmo Peñas](http://nlp.uned.es/~anselmo/) and [Alvaro Rodrigo](https://sites.google.com/view/nlp-uned/people/%C3%A1lvaro-rodrigo-yuste?authuser=0),
-and my research interests concern Natural Language Processing, Machine Learning and Computer Science, with special focus on question answering, machine reading comprehension, language models, deep neural networks and lifelong learning.
+I am Guillermo Echegoyen, senior researcher at [Expert AI](https://www.expert.ai/). My research interests concern Natural Language Processing, Machine Learning and Computer Science, with special focus on question answering, machine reading comprehension, language models, deep neural networks and lifelong learning.
 
 In 2018, I obtained my MSc in Artificial Intelligence by the Technical University of Madrid (UPM), standing out in Evolutionary Computation, Multi Agent Systems and Bayesian networks.
 

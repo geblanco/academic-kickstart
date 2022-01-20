@@ -18,12 +18,26 @@ date_format = "Jan 2006"
 #   Leave `date_end` empty if it's your current employer.
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 [[experience]]
+  title = "Senior NLP Researcher"
+  company = "Expert AI"
+  company_url = "https://expert.ai"
+  location = "Madrid, Spain"
+  date_start = "2021-11-01"
+  date_end = ""
+  description = """
+  Responsibilities include:
+  
+  * Develop and test Deep Learning Language Models.
+  * Collaborate in European funded research projects like [Reliance](https://www.expert.ai/research-project/reliance-extending-the-research-enabling-capabilities-of-the-european-open-science-cloud/), [Aida](https://www.expert.ai/research-project/aida-artificial-intelligence-and-advanced-data-analytics-for-law-enforcement-agencies/) or [Trace](https://www.expert.ai/research-project/mirc-0-copy-2/)
+  """
+
+[[experience]]
   title = "PhD in Natural Language Processing"
   company = "National Distance Education University (UNED)"
   company_url = "https://sites.google.com/view/nlp-uned/home"
   location = "Madrid, Spain"
   date_start = "2018-09-01"
-  date_end = ""
+  date_end = "2021-10-31"
   description = """
   Responsibilities include:
   
