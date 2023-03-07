@@ -10,7 +10,7 @@ authors:
 superuser: true
 
 # Role/position
-role: NLP Researcher
+role: ML Research Engineer
 
 # Organizations/Affiliations
 organizations:
